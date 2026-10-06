@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">laguiadejerryapp</string>
+    <string name="appbar_title">La guía de Jerry</string>
+
+    <string name="status_alive">Vivo</string>
+    <string name="status_dead">Muerto</string>
+    <string name="status_unknown">Desconocido</string>
+    <string name="error_loading_characters">No se pudieron cargar los personajes</string>
+    <string name="retry">Reintentar</string>
+
+    <string name="error_network">Sin conexión a internet</string>
+    <string name="error_server">El servidor no responde. Inténtalo más tarde</string>
+    <string name="error_unknown">Algo ha salido mal</string>
+    <string name="error_not_found">No se han encontrado resultados</string>
+
+    <string name="search_hint">Buscar personaje</string>
+    <string name="clear_search">Borrar búsqueda</string>
+    <string name="search_empty">No hay ningún personaje llamado «%1$s»</string>
+
+    <string name="back">Volver</string>
+    <string name="unknown">Desconocido</string>
+    <string name="gender">Género</string>
+    <string name="type">Tipo</string>
+    <string name="origin">Origen</string>
+    <string name="location">Ubicación</string>
+    <string name="gender_female">Femenino</string>
+    <string name="gender_male">Masculino</string>
+    <string name="gender_genderless">Sin género</string>
+    <string name="episodes_count">Episodios (%1$d)</string>
+</resources>
